@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**frankolson/frankolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Will Olson and I'm a professional n3rd
 
-Here are some ideas to get you started:
+**By day:** I'm an Engineering Manager at Procore Technologies<br />
+**But by night:** I'm and avid coder, life-long learner, digital nomad, and amateur freediver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some more about me:
+
+- 🌱 I’m currently learning Unity3D, specifically to build XR applications. Check out my growing list of certifications [here](https://www.linkedin.com/in/frankolson/details/certifications/).
+- 🔭 I’m currently working on various Unity projects. Here are a couple to check out:
+  - [Golf Range Simulator](https://github.com/frankolson/Golf-Range-Simulator) **(Early WIP)**
+  - [Not Another Asteroid Game!](https://github.com/frankolson/Asteroid)
+- 💬 Ask me about [The Office](https://twitter.com/theofficetv), I know quite a bit.
+- 📫 How to reach me: https://willolson.io/
