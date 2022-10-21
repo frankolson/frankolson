@@ -12,4 +12,7 @@ My name is Will Olson and I'm a professional n3rd
   - [Golf Range Simulator](https://github.com/frankolson/Golf-Range-Simulator) **(Early WIP)**
   - [Not Another Asteroid Game!](https://github.com/frankolson/Asteroid)
 - 💬 Ask me about [The Office](https://twitter.com/theofficetv), I know quite a bit.
-- 📫 How to reach me: https://willolson.io/
+- 📫 How to reach me:
+  - https://willolson.io/
+  - https://twitter.com/thinkolson
+  - https://www.linkedin.com/in/frankolson/
