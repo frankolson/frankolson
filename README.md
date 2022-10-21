@@ -2,7 +2,7 @@
 
 My name is Will Olson and I'm a professional n3rd
 
-**By day:** I'm an Engineering Manager at Procore Technologies<br />
+**By day:** I'm an Engineering Manager at Procore Technologies.<br />
 **But by night:** I'm and avid coder, life-long learner, digital nomad, and amateur freediver.
 
 ### Some more about me:
