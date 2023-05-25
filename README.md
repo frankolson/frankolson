@@ -7,11 +7,8 @@ My name is Will Olson and I'm a professional n3rd
 
 ### Some more about me:
 
-- 🌱 I’m currently learning Unity3D, specifically to build XR applications. Check out my growing list of certifications [here](https://www.linkedin.com/in/frankolson/details/certifications/).
-- 🔭 I’m currently working on various Unity projects. Here are a couple to check out:
-  - [Golf Range Simulator](https://github.com/frankolson/Golf-Range-Simulator) **(Early WIP)**
-  - [Not Another Asteroid Game!](https://github.com/frankolson/Asteroid)
-- 💬 Ask me about [The Office](https://twitter.com/theofficetv), I know quite a bit.
+- 🌱 I’m currently learning guitar and how to build cool apps with [LLMs](https://en.m.wikipedia.org/wiki/Large_language_model)
+- 🔭 I’m currently working on [PlatingAI](https://www.platingai.com), an AI assistant to help me with home cooking
 - 📫 How to reach me:
   - https://willolson.io/
   - https://twitter.com/thinkolson
